@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="Document Approvals Search">a822ea6a110031107e3058b889d7a0dc</search_context_config>
+        <source display_value="Document Approval Category">e422ea6afd0031100611e20423af08dc</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:46</sys_created_on>
+        <sys_id>ac22ea6ac60031104dac63e7955bdfdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_ac22ea6ac60031104dac63e7955bdfdb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:46</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

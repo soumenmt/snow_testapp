@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_color">
+    <sys_report_color action="INSERT_OR_UPDATE">
+        <color>#E3F4ED</color>
+        <display>background-color:#E3F4ED</display>
+        <name>#E3F4ED</name>
+        <sys_class_name>sys_report_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:57</sys_created_on>
+        <sys_id>e022ea6a2b0031105ddbf3c3b0eb2cd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>#E3F4ED</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_report_color_e022ea6a2b0031105ddbf3c3b0eb2cd1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:57</sys_updated_on>
+        <themeable_color/>
+    </sys_report_color>
+</record_update>

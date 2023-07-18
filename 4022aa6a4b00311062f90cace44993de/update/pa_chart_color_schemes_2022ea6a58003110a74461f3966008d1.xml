@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_chart_color_schemes">
+    <pa_chart_color_schemes action="INSERT_OR_UPDATE">
+        <color_1 display_value="#003B31">ec22ea6a430031103e5a9d26e4b142d1</color_1>
+        <color_10/>
+        <color_11/>
+        <color_12/>
+        <color_13/>
+        <color_14/>
+        <color_15/>
+        <color_16/>
+        <color_17/>
+        <color_18/>
+        <color_19/>
+        <color_2 display_value="#007A62">a422ea6a4a00311036d4938b07fee7d1</color_2>
+        <color_20/>
+        <color_21/>
+        <color_22/>
+        <color_23/>
+        <color_24/>
+        <color_25/>
+        <color_26/>
+        <color_27/>
+        <color_28/>
+        <color_29/>
+        <color_3 display_value="#81B5A1">a022ea6a310031103f3ea1104de818d2</color_3>
+        <color_30/>
+        <color_31/>
+        <color_32/>
+        <color_4 display_value="#E3F4ED">e022ea6a2b0031105ddbf3c3b0eb2cd1</color_4>
+        <color_5/>
+        <color_6/>
+        <color_7/>
+        <color_8/>
+        <color_9/>
+        <description>Document Approval Chart Color Scheme</description>
+        <name>Document Approval Chart Color Scheme</name>
+        <sys_class_name>pa_chart_color_schemes</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:30:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2022ea6a58003110a74461f3966008d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approval Chart Color Scheme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>pa_chart_color_schemes_2022ea6a58003110a74461f3966008d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:30:04</sys_updated_on>
+    </pa_chart_color_schemes>
+    <sys_translated_text action="delete_multiple" query="documentkey=2022ea6a58003110a74461f3966008d1"/>
+</record_update>

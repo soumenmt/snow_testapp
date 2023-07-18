@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_form_header">
+    <sys_aw_form_header action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <header_image/>
+        <hide_tags>true</hide_tags>
+        <ignore_highlight>false</ignore_highlight>
+        <order>100</order>
+        <primary_field>name</primary_field>
+        <secondary_fields/>
+        <specificity>10</specificity>
+        <subheading/>
+        <sys_class_name>sys_aw_form_header</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2022ea6a570031107306fc0f90c902cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_963112_testapp_document_approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_aw_form_header_2022ea6a570031107306fc0f90c902cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:50</sys_updated_on>
+        <table>x_963112_testapp_document_approval</table>
+        <workspace/>
+    </sys_aw_form_header>
+</record_update>

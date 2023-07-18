@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Doc Approval Workspace App Config">ac22ea6abc00311038ff24ce502cf0e5</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Attachment">4422ea6ad3003110248ad87e9714df16</macroponent>
+        <macroponent_config/>
+        <name>Attachments default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record">9c22ea6a7200311014c003f7bb3b3e40</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="">23af4455770120109837b73aba106103</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4822ea6a370031101924f4e7b3e6010f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_ux_screen_4822ea6a370031101924f4e7b3e6010f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:56</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=4822ea6a370031101924f4e7b3e6010f"/>
+</record_update>

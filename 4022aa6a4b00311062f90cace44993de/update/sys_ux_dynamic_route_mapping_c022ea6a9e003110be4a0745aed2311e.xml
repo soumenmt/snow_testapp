@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_dynamic_route_mapping">
+    <sys_ux_dynamic_route_mapping action="INSERT_OR_UPDATE">
+        <param_payload>{&#13;
+   "route":"list",&#13;
+   "targetRoute":"",&#13;
+   "fields": {"table":"{{table}}","sysId":"{{sysId}}"},&#13;
+   "params": "",&#13;
+   "redirect":true,&#13;
+   "passiveNavigation":"",&#13;
+   "title":"",&#13;
+   "multiInstField":"",&#13;
+   "external":""&#13;
+}</param_payload>
+        <route_config display_value="Document Approval Workspace Route Config">4822ea6a6b00311032102cdcc8b1fd1e</route_config>
+        <source_component>list</source_component>
+        <sys_class_name>sys_ux_dynamic_route_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c022ea6a9e003110be4a0745aed2311e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_ux_dynamic_route_mapping_c022ea6a9e003110be4a0745aed2311e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:48</sys_updated_on>
+        <table>x_963112_testapp_document_approver</table>
+    </sys_ux_dynamic_route_mapping>
+</record_update>

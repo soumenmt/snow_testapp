@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:50</sys_created_on>
+        <sys_id>d422ea6a880031105bd78428fa633b59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_d422ea6a880031105bd78428fa633b59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:50</sys_updated_on>
+        <target>text_07</target>
+        <ui_rule display_value="Rejected state rules for document approvals - List View Config">9822ea6a7a00311072cf4c79f3dbd959</ui_rule>
+        <value>{"TextDecorator": { "Type": "Font", "FontName": "now-mobile-icons-cards", "FontColor": "#975A4A", "Value": "e902"}}</value>
+    </sys_sg_ui_rule_action>
+</record_update>

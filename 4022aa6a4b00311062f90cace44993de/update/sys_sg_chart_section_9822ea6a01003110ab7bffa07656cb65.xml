@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <card_size/>
+        <charts>9c22ea6aa50031102addca70b9049b61,5422ea6a3d00311053dc7f344c9d6a61,1822ea6aac00311004da357286759b61</charts>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <row_count/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:54</sys_created_on>
+        <sys_id>9822ea6a01003110ab7bffa07656cb65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approvals</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_sg_chart_section_9822ea6a01003110ab7bffa07656cb65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:54</sys_updated_on>
+        <table/>
+        <title>Document Approvals</title>
+        <type>single_score</type>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_chart_section>
+</record_update>

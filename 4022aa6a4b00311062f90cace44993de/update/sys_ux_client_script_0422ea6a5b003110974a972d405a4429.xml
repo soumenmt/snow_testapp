@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Landing page">d422ea6a08003110da8e69e733095d41</macroponent>
+        <name>Go to Doc Submit page</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+* @param {any} params.imports
+* @param {ApiHelpers} params.helpers
+*/
+function handler({api, event, helpers, imports}) {
+    api.emit('NAV_ITEM_SELECTED', { route: 'doc_submit', fields:{ sysId: '-1'}, multiInstField: 'sysId' });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:54</sys_created_on>
+        <sys_id>0422ea6a5b003110974a972d405a4429</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Go to Doc Submit page</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_ux_client_script_0422ea6a5b003110974a972d405a4429</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:54</sys_updated_on>
+        <target/>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

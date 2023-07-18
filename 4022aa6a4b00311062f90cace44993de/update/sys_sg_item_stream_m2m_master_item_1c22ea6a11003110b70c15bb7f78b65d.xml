@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Approvals this month Item Stream">5422ea6a67003110888ea77008fbb25e</item_stream>
+        <master_item display_value="Approvals this month Main Item">d022ea6a49003110516c09606f8a6d5d</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:30:01</sys_created_on>
+        <sys_id>1c22ea6a11003110b70c15bb7f78b65d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_1c22ea6a11003110b70c15bb7f78b65d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:30:01</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

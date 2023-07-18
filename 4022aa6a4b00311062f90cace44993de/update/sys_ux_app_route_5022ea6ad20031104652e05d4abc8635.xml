@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Doc Approval Portal App Config">e022ea6a77003110d11af0d88e49d5e7</app_config>
+        <description/>
+        <extension_point/>
+        <fields>sysId</fields>
+        <icon/>
+        <name>doc_edit</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>doc_edit</route_type>
+        <screen_type display_value="doc_edit">9022ea6a6000311009fe4672ec0fa634</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:45</sys_created_on>
+        <sys_id>5022ea6ad20031104652e05d4abc8635</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>doc_edit</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_ux_app_route_5022ea6ad20031104652e05d4abc8635</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:45</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=5022ea6ad20031104652e05d4abc8635"/>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Document Approver">1422ea6a86003110d221611b76aeda3e</applicability>
+        <order>0</order>
+        <screen display_value="List drilldown default">d022ea6a9f0031101cbd76754e00da39</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:49</sys_created_on>
+        <sys_id>5c22ea6a760031104cf8fb55005a0438</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_5c22ea6a760031104cf8fb55005a0438</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:49</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

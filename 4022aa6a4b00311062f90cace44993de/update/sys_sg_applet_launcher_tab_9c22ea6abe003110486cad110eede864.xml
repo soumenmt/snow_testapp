@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="testapp">d422ea6a4a0031101ff30dd3949fb665</applet_launcher>
+        <icon display_value="Document Approvals">5022ea6a8100311097ad6e9723b4ba65</icon>
+        <label>Dcoument Approval</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:30:00</sys_created_on>
+        <sys_id>9c22ea6abe003110486cad110eede864</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dcoument Approval</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_9c22ea6abe003110486cad110eede864</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:30:00</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

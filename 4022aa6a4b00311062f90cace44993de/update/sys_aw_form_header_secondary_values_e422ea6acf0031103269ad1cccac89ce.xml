@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_form_header_secondary_values">
+    <sys_aw_form_header_secondary_values action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <field>approval_category</field>
+        <form_header display_value="x_963112_testapp_document_approval">2022ea6a570031107306fc0f90c902cf</form_header>
+        <order>200</order>
+        <roles/>
+        <sys_class_name>sys_aw_form_header_secondary_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:59</sys_created_on>
+        <sys_id>e422ea6acf0031103269ad1cccac89ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approval_category</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_aw_form_header_secondary_values_e422ea6acf0031103269ad1cccac89ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:59</sys_updated_on>
+    </sys_aw_form_header_secondary_values>
+</record_update>

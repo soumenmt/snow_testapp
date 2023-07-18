@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Needs Attention Item Stream">9022ea6a90003110ad8c3081f5eebe5e</item_stream>
+        <master_item display_value="Needs Attention Main Item">d822ea6a73003110e9414afb51499e5b</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:56</sys_created_on>
+        <sys_id>5c22ea6ab00031108be18184d8bcf65c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_5c22ea6ab00031108be18184d8bcf65c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:56</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

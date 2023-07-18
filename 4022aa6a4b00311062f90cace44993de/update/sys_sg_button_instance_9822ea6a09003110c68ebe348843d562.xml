@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Reject document">5022ea6ae2003110c543328e92062868</button>
+        <color_theme>destructive</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Reject</label>
+        <location>footer</location>
+        <name>Reject</name>
+        <order>10</order>
+        <parent>d422ea6ad80031108ac79d1ade8b6962</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:58</sys_created_on>
+        <sys_id>9822ea6a09003110c68ebe348843d562</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reject</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_sg_button_instance_9822ea6a09003110c68ebe348843d562</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:58</sys_updated_on>
+        <table>x_963112_testapp_document_approver</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=9822ea6a09003110c68ebe348843d562"/>
+</record_update>

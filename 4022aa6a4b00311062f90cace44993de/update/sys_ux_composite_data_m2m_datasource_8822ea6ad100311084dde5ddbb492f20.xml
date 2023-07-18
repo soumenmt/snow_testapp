@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Document Approval Search">4422ea6ac70031104192505b83119722</dataset>
+        <datasource display_value="Genius Result Data Source">6d7939f1ffe31010968af5a1703bf153</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:45</sys_created_on>
+        <sys_id>8822ea6ad100311084dde5ddbb492f20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_8822ea6ad100311084dde5ddbb492f20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:45</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

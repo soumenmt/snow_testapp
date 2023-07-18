@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_963112_testapp_document_approver</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Document Approval">d022ea6a6c003110ffba49d211583660</embedded_screen>
+        <item_view/>
+        <name>New Document Aprpovals Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:30:02</sys_created_on>
+        <sys_id>d422ea6a61003110b8d041682aad935c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Document Aprpovals Main Item</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_sg_master_item_d422ea6a61003110b8d041682aad935c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:30:02</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Document Approvals View Config">1422ea6a6c003110a5c0a7a6a783f75f</view_config>
+    </sys_sg_master_item>
+</record_update>

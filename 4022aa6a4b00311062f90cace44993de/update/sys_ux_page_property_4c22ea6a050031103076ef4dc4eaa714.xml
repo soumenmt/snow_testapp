@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="testapp Workspace">e822ea6a8c00311017440995745b06e6</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c22ea6a050031103076ef4dc4eaa714</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_ux_page_property_4c22ea6a050031103076ef4dc4eaa714</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:58</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_963112_testapp.e822ea6a8c00311017440995745b06e6.root.chrome_tab</unique_name>
+        <value>{&#13;
+  "contextual": [&#13;
+    "details"&#13;
+  ],&#13;
+  "maxMainTabLimit": 10,&#13;
+  "maxTotalSubTabLimit": 30&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=4c22ea6a050031103076ef4dc4eaa714"/>
+</record_update>

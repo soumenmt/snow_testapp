@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"File"}</icon>
+        <name>Document Approvals</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:59</sys_created_on>
+        <sys_id>5022ea6a8100311097ad6e9723b4ba65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approvals</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_sg_icon_5022ea6a8100311097ad6e9723b4ba65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:59</sys_updated_on>
+        <type>image</type>
+    </sys_sg_icon>
+</record_update>

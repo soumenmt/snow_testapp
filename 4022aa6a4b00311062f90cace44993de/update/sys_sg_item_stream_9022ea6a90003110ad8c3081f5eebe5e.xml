@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="di_document_pending_approvals">9022ea6ab8003110f78c2931cc453761</data_item>
+        <interleaved_field/>
+        <name>Needs Attention Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:56</sys_created_on>
+        <sys_id>9022ea6a90003110ad8c3081f5eebe5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needs Attention Item Stream</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_sg_item_stream_9022ea6a90003110ad8c3081f5eebe5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:56</sys_updated_on>
+        <table>x_963112_testapp_document_approver</table>
+    </sys_sg_item_stream>
+</record_update>

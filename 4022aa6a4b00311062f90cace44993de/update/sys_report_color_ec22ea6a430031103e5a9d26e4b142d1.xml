@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_color">
+    <sys_report_color action="INSERT_OR_UPDATE">
+        <color>#003B31</color>
+        <display>background-color:#003B31</display>
+        <name>#003B31</name>
+        <sys_class_name>sys_report_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:47</sys_created_on>
+        <sys_id>ec22ea6a430031103e5a9d26e4b142d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>#003B31</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sys_report_color_ec22ea6a430031103e5a9d26e4b142d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:47</sys_updated_on>
+        <themeable_color/>
+    </sys_report_color>
+</record_update>

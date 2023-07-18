@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_963112_testapp_document_approval</collection>
+        <email_layout display_value="Document Approval Notification Layout">ec22ea6a19003110a27c2f30704b37cf</email_layout>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text/>
+        <name>Document Approval Template</name>
+        <sms_alternate/>
+        <subject>Document Approval Subject</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-18 14:29:59</sys_created_on>
+        <sys_id>a022ea6a06003110888d9c897cd294d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Document Approval Template</sys_name>
+        <sys_package display_value="testapp" source="x_963112_testapp">4022aa6a4b00311062f90cace44993de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testapp">4022aa6a4b00311062f90cace44993de</sys_scope>
+        <sys_update_name>sysevent_email_template_a022ea6a06003110888d9c897cd294d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-18 14:29:59</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>
